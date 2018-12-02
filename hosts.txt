@@ -1,0 +1,17 @@
+api.catch.gift
+wxsnsdythumb.wxs.qq.com
+wxcpgame.chiji-h5.com
+glog.aldwx.com
+pgdt.gtimg.cn
+g1.tagtic.cn
+api2.mytuner.mobi
+stats2.mytuner.mobi
+scontent.xx.fbcdn.net
+mytuner.mobi
+external.xx.fbcdn.net
+adservice.google.com
+www.googletagservices.com
+pagead.l.doubleclick.net
+mesu.g.aaplimg.com
+graph.facebook.com
+www.google-analytics.com
