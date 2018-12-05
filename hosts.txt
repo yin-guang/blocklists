@@ -15,3 +15,6 @@ pagead.l.doubleclick.net
 mesu.g.aaplimg.com
 graph.facebook.com
 www.google-analytics.com
+ads.yap.yahoo.com
+na.ads.yahoo.com
+ssp.hinet.net
