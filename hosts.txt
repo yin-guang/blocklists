@@ -4,8 +4,6 @@ wxcpgame.chiji-h5.com
 glog.aldwx.com
 pgdt.gtimg.cn
 g1.tagtic.cn
-api2.mytuner.mobi
-stats2.mytuner.mobi
 scontent.xx.fbcdn.net
 mytuner.mobi
 external.xx.fbcdn.net
@@ -18,3 +16,17 @@ www.google-analytics.com
 ads.yap.yahoo.com
 na.ads.yahoo.com
 ssp.hinet.net
+settings.crashlytics.com
+events-endpoint-455714294.us-east-1.elb.amazonaws.com
+pagead2.googlesyndication.com
+pagead2.googleadservices.com
+xx.c.appier.net
+click.inplayable.com
+logger.zcoup.com
+api.unlimapps.com
+c.sdkclick.com
+static.adthor.com
+api.adthor.com
+s.click.taobao.com
+app.appsflyer.com
+api.zcoup.com
