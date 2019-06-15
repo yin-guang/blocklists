@@ -1,5 +1,10 @@
-yidianzixun.com#$#.container.collapse-test-short .content {max-height:100% !important;overflow: visible!important;}
+! Title: Test
+! Description: Test filter. This filter is necessary for quality ad blocking.
+! Version: 1.0.0.1
+! Expires: 1 days (update frequency)
+yidianzixun.com#$#.container.collapse-test-short .content {max-height:100%!important;overflow:visible!important;}
 yidianzixun.com##.article-read-more-test
 yidianzixun.com##.yidian-wm-copyright-bottom
 yidianzixun.com#$#.container.collapse-test-short>article:after{ height: 0rem!important;}
 yidianzixun.com##.banner.planA
+yidianzixun.com##.banner.plan-default.plan-default1.plan-gov
