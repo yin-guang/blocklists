@@ -1,4 +1,4 @@
-yidianzixun.com#$#.container.collapse-test-short .content {max-height:100% !important;}
+yidianzixun.com#$#.container.collapse-test-short .content {max-height:100% !important;overflow: visible!important;}
 yidianzixun.com##.article-read-more-test
 yidianzixun.com##.yidian-wm-copyright-bottom
 yidianzixun.com#$#.container.collapse-test-short>article:after{ height: 0rem!important;}
